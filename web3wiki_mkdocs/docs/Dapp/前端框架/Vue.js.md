@@ -1,4 +1,4 @@
-# vue.js
+# Vue.js
 
 Vue.js 是一个用于构建用户界面和单页应用程序的开源 JavaScript 框架。 它主要专注于前端开发。
 
